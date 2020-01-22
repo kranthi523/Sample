@@ -1,3 +1,3 @@
 # Sample
 
-Sample Application for practis
+Sample Application for practise purpose only
